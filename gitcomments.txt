@@ -60,7 +60,11 @@ core.editor=vim
 merge.tool=vimdiff	
 
 =============================
-this is for testing.
+
+hey git this is my change let me check your stats
+
+
+asdfsdafdsffdfsdafsdfadsfd
 
 	
 	
