@@ -60,7 +60,7 @@ core.editor=vim
 merge.tool=vimdiff	
 
 =============================
-
+this is for testing.
 
 	
 	
