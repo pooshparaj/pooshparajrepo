@@ -1,4 +1,0 @@
-pooshparajrepo
-==============
-
-exploring git
