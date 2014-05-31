@@ -61,14 +61,5 @@ merge.tool=vimdiff
 
 =============================
 
-hey git this is my change let me check your stats
-
-
-asdfsdafdsffdfsdafsdfadsfd
-
-
-aSDFAFDSADSF
-safdsfsfdfsafsdfs
-
 	
 	
