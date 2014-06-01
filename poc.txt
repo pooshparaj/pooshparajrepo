@@ -1,0 +1,14 @@
+var text:Text = new Text();
+				text.id = "sample"//e.data.userID;
+				text.width = 30;
+				text.height = 100;
+				text.text = "name"//e.data.fullname;
+				userchatwindow.addChild(text);
+				var textInput:TextInput = new TextInput();
+				textInput.width = 50;
+				userchatwindow.addChild(textInput);
+				var textButton:Button = new Button();
+				textButton.label="submit"
+				textButton.name = "submit";
+				textButton.addEventListener(MouseEvent.CLICK, sendText, );
+				userchatwindow.addChild(textButton);
